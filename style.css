@@ -54,3 +54,35 @@
     height: 280px;
     padding: 50px 40px 100px 300px;
 }
+
+/* first-section */
+.first{
+    margin-left: 40px;
+}
+.fst h3{
+    color: rgb(14, 14, 14);
+    font-size: 20px;
+    font-weight: bolder;
+}
+.fscards{
+    display: flex;
+    gap: 20px;
+}
+.card{
+    width: 250px;
+    height: 190px;
+    border-radius: 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    padding: 12px 0px 0px 12px;
+}
+.card h5{
+    font-size: 15px;
+    font-weight: 600px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.card p{
+    font-size: 12px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+}
