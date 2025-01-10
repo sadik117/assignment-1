@@ -1,172 +1,199 @@
-.fira-sans-semibold{
-    font-family: "Fira Sans", serif;
-    font-weight: 600;
-    font-style: normal;
-  }
+.fira-sans-semibold {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
 
 /* Header */
-.nav{
-    display: flex;
-    justify-content: space-between;
+.nav {
+  display: flex;
+  justify-content: space-between;
 }
-.nav-ttl{
-    color: rgb(14, 14, 14);
-    font-size: 25px;
-    font-weight: 600px;
-    margin: 10px 800px 10px 100px;
+.nav-ttl {
+  color: rgb(14, 14, 14);
+  font-size: 25px;
+  font-weight: 600px;
+  margin: 10px 800px 10px 100px;
 }
-.btn{
-    color: white;
-    border-radius: 8px;
-    background: rgb(0, 106, 80);
-    text-decoration: none;
-    padding: 10px 20px 10px 20px;
-    margin-right: 80px;
-    width: 55px;
-    height: 20px;
+.btn {
+  color: white;
+  border-radius: 8px;
+  background: rgb(0, 106, 80);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin-right: 80px;
+  width: 55px;
+  height: 20px;
 }
-.banner{
-    height: 400px;
-    width: 1150px;
-   background-color: rgb(198, 228, 214); 
-   border-radius: 20px;
-   margin: 50px 40px;
+.banner {
+  height: 400px;
+  width: 1150px;
+  background-color: rgb(198, 228, 214);
+  border-radius: 20px;
+  margin: 50px 40px;
 }
-.banner-btn{
-    color: white;
-    border-radius: 8px;
-    background: rgb(0, 106, 80);
-    text-decoration: none;
-    padding: 10px 20px 10px 20px;
-    margin-top: 20px;
+.banner-btn {
+  color: white;
+  border-radius: 8px;
+  background: rgb(0, 106, 80);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
 }
-.banner-content{
-     display: flex;
+.banner-content {
+  display: flex;
 }
-.banner-ttls{
-    padding: 70px 0px 70px 60px;
+.banner-ttls {
+  padding: 70px 0px 70px 60px;
 }
-.banner-ttls h4{
-    color: rgba(14, 14, 14, 0.5);
+.banner-ttls h4 {
+  color: rgba(14, 14, 14, 0.5);
 }
-.banner-img img{
-    width: 320px;
-    height: 280px;
-    padding: 50px 40px 100px 300px;
+.banner-img img {
+  width: 320px;
+  height: 280px;
+  padding: 50px 40px 100px 300px;
 }
 
 /* first-section */
-.first{
-    margin-left: 40px;
+.first {
+  margin-left: 40px;
 }
-.fst h2{
-    color: rgb(14, 14, 14);
-    font-size: 20px;
-    font-weight: bolder;
+.fst h2 {
+  color: rgb(14, 14, 14);
+  font-size: 20px;
+  font-weight: bolder;
 }
-.fscards{
-    display: flex;
-    gap: 20px;
+.fscards {
+  display: flex;
+  gap: 20px;
 }
-.card{
-    width: 250px;
-    height: 190px;
-    border-radius: 15px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgb(255, 255, 255);
-    padding: 12px 0px 0px 12px;
+.card {
+  width: 250px;
+  height: 190px;
+  border-radius: 15px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(255, 255, 255);
+  padding: 12px 0px 0px 12px;
 }
-.card h5{
-    font-size: 15px;
-    font-weight: 600px;
-    color: rgba(14, 14, 14, 0.8);
+.card h5 {
+  font-size: 15px;
+  font-weight: 600px;
+  color: rgba(14, 14, 14, 0.8);
 }
-.card p{
-    font-size: 12px;
-    font-weight: 400px;
-    color: rgba(14, 14, 14, 0.7);
+.card p {
+  font-size: 12px;
+  font-weight: 400px;
+  color: rgba(14, 14, 14, 0.7);
 }
 /* Second-section */
-.second{
-    margin-left: 40px;
+.second {
+  margin-left: 40px;
 }
-.scards{
-    display: flex;
-    gap: 20px;
+.scards {
+  display: flex;
+  gap: 20px;
 }
-.scard-1{
-    width: 350px;
-    height: 230px;
-    border-radius: 15px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgba(84, 144, 245, 0.2);
-    padding: 12px 0px 0px 12px;
+.scard-1 {
+  width: 350px;
+  height: 230px;
+  border-radius: 15px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgba(84, 144, 245, 0.2);
+  padding: 12px 0px 0px 12px;
 }
-.btn-1{
-    color: white;
-    border-radius: 8px;
-    background: rgb(84, 144, 245);
-    text-decoration: none;
-    padding: 10px 20px 10px 20px;
-    margin-right: 80px;
-    width: 15px;
-    height: 10px;
+.btn-1 {
+  color: white;
+  border-radius: 8px;
+  background: rgb(84, 144, 245);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin-right: 80px;
+  width: 15px;
+  height: 10px;
 }
-.scard-2{
-    width: 350px;
-    height: 230px;
-    border-radius: 15px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgb(198, 228, 214);
-    padding: 12px 0px 0px 12px;
+.scard-2 {
+  width: 350px;
+  height: 230px;
+  border-radius: 15px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(198, 228, 214);
+  padding: 12px 0px 0px 12px;
 }
-.btn-2{
-    color: white;
-    border-radius: 8px;
-    background: rgb(9, 161, 92);
-    text-decoration: none;
-    padding: 10px 20px 10px 20px;
-    margin-right: 80px;
-    width: 15px;
-    height: 10px;
+.btn-2 {
+  color: white;
+  border-radius: 8px;
+  background: rgb(9, 161, 92);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin-right: 80px;
+  width: 15px;
+  height: 10px;
 }
-.scard-3{
-    width: 350px;
-    height: 230px;
-    border-radius: 15px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgb(247, 235, 207);
-    padding: 12px 0px 0px 12px;
+.scard-3 {
+  width: 350px;
+  height: 230px;
+  border-radius: 15px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(247, 235, 207);
+  padding: 12px 0px 0px 12px;
 }
-.btn-3{
-    color: white;
-    border-radius: 8px;
-    background: rgb(255, 194, 57);
-    text-decoration: none;
-    padding: 10px 20px 10px 20px;
-    margin-right: 80px;
-    width: 15px;
-    height: 10px;
+.btn-3 {
+  color: white;
+  border-radius: 8px;
+  background: rgb(255, 194, 57);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin-right: 80px;
+  width: 15px;
+  height: 10px;
 }
-.scards h5{
-    color: rgba(14, 14, 14, 0.8);
-    font-size: 16px;
-    font-weight: 600px;
+.scards h5 {
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 16px;
+  font-weight: 600px;
 }
-.scards p{
-    color: rgba(14, 14, 14, 0.7);
-    font-size: 12px;
-    font-weight: 400px;
-    margin: 0px 0px 20px 0px;
+.scards p {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 12px;
+  font-weight: 400px;
+  margin: 0px 0px 20px 0px;
 }
-.sst h2{
+.sst h2 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(14, 14, 14);
+}
+.sst p {
+  font-size: 12px;
+  font-weight: 400px;
+  color: rgba(14, 14, 14, 0.7);
+}
+/* Third-section */
+.third {
+  width: 1140px;
+  height: 200px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin: 20px 0px 0px 35px;
+}
+.content{
+    background-image: url("assets/quote-bg.png");
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.cttls{
+    padding-top: 10px;
+}
+.cttls h3{
+    color: rgba(14, 14, 14);
     font-size: 20px;
-    font-weight: bolder;
-    color: rgb(14, 14, 14);
+    font-weight: bold;
 }
-.sst p{
-    font-size: 12px;
-    font-weight: 400px;
-    color: rgba(14, 14, 14, 0.7);
+.cttls p{
+    color: rgba(14, 14, 14);
+    font-size: 15px;
+    font-weight: 200px;
 }
 
