@@ -178,22 +178,58 @@
   background: rgb(255, 255, 255);
   margin: 20px 0px 0px 35px;
 }
-.content{
-    background-image: url("assets/quote-bg.png");
-    background-repeat: no-repeat;
-    margin: 20px;
+.content {
+  background-image: url("assets/quote-bg.png");
+  background-repeat: no-repeat;
+  margin: 20px;
 }
-.cttls{
-    padding-top: 10px;
+.cttls {
+  padding-top: 10px;
 }
-.cttls h3{
-    color: rgba(14, 14, 14);
-    font-size: 20px;
-    font-weight: bold;
+.cttls h3 {
+  color: rgba(14, 14, 14);
+  font-size: 20px;
+  font-weight: bold;
 }
-.cttls p{
-    color: rgba(14, 14, 14);
-    font-size: 15px;
-    font-weight: 200px;
+.cttls p {
+  color: rgba(14, 14, 14);
+  font-size: 15px;
+  font-weight: 200px;
 }
 
+/* Fourth section */
+.fourth {
+  margin-left: 40px;
+}
+.fourthsttl h2 {
+  color: rgb(14, 14, 14);
+  font-size: 20px;
+  font-weight: bolder;
+}
+.main-box {
+  width: 1140px;
+  height: 300px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin: 10px 0px 25px 0px;
+}
+.head-ttls {
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(198, 228, 214);
+  margin: 40px 25px 0px 25px;
+  padding: 0px 15px 15px 10px
+}
+.q1, .q2, .q3{
+    width: 1000px;
+    height: 45px;
+    font-size: 12px;
+    font-weight: 600px;
+    margin-left: 25px;
+    padding:15px 0px 0px 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgba(255, 255, 255, 0.1);
+}
