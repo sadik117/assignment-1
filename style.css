@@ -221,15 +221,38 @@
   border: 1px solid rgba(14, 14, 14, 0.15);
   background: rgb(198, 228, 214);
   margin: 40px 25px 0px 25px;
-  padding: 0px 15px 15px 10px
+  padding: 0px 15px 15px 10px;
 }
-.q1, .q2, .q3{
-    width: 1000px;
-    height: 45px;
-    font-size: 12px;
-    font-weight: 600px;
-    margin-left: 25px;
-    padding:15px 0px 0px 15px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgba(255, 255, 255, 0.1);
+.q1,
+.q2,
+.q3 {
+  width: 950px;
+  height: 45px;
+  font-size: 12px;
+  font-weight: 600px;
+  margin-left: 25px;
+  padding: 15px 0px 0px 15px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgba(255, 255, 255, 0.1);
+}
+.quesNans {
+  display: flex;
+}
+.ans select {
+  color: rgb(14, 14, 14);
+  font-size: 10px;
+  display: flex;
+  width: 110px;
+  margin:15px 2px 0px 8px;
+  padding: 5px 15px 5px 5px;
+  border: 1px solid rgb(14, 14, 14);
+  border-radius: 3px;
+  background: rgb(198, 228, 214);
+}
+.opinion {
+  width: 123px;
+  height: 61.3px;
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgba(255, 255, 255, 0.1);
 }
