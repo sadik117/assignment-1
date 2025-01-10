@@ -59,7 +59,7 @@
 .first{
     margin-left: 40px;
 }
-.fst h3{
+.fst h2{
     color: rgb(14, 14, 14);
     font-size: 20px;
     font-weight: bolder;
@@ -86,3 +86,87 @@
     font-weight: 400px;
     color: rgba(14, 14, 14, 0.7);
 }
+/* Second-section */
+.second{
+    margin-left: 40px;
+}
+.scards{
+    display: flex;
+    gap: 20px;
+}
+.scard-1{
+    width: 350px;
+    height: 230px;
+    border-radius: 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgba(84, 144, 245, 0.2);
+    padding: 12px 0px 0px 12px;
+}
+.btn-1{
+    color: white;
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    margin-right: 80px;
+    width: 15px;
+    height: 10px;
+}
+.scard-2{
+    width: 350px;
+    height: 230px;
+    border-radius: 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(198, 228, 214);
+    padding: 12px 0px 0px 12px;
+}
+.btn-2{
+    color: white;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    margin-right: 80px;
+    width: 15px;
+    height: 10px;
+}
+.scard-3{
+    width: 350px;
+    height: 230px;
+    border-radius: 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(247, 235, 207);
+    padding: 12px 0px 0px 12px;
+}
+.btn-3{
+    color: white;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    margin-right: 80px;
+    width: 15px;
+    height: 10px;
+}
+.scards h5{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 600px;
+}
+.scards p{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 12px;
+    font-weight: 400px;
+    margin: 0px 0px 20px 0px;
+}
+.sst h2{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(14, 14, 14);
+}
+.sst p{
+    font-size: 12px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
