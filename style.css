@@ -362,6 +362,7 @@
   border-radius: 6px;
   background: rgb(0, 106, 80);
   color: white;
+  margin-right: 25px;
 }
 /* Seventh-section */
 
@@ -406,4 +407,16 @@
   border-radius: 0px 50px 50px 0px;
   background: rgb(0, 106, 80);
   color: white;
+}
+
+/* Footer */
+.content{
+  width: 1150px;
+  height: 120px;
+  background: rgb(255, 255, 255);
+  padding-top: 30px;
+  text-align: center;
+}
+.footer-ttls p{
+
 }
