@@ -326,23 +326,28 @@
   display: flex;
   margin: 20px 0px 0px 300px;
   gap: 15px;
+}
+.taka button{ 
   font-size: 20px;
   font-weight: bolder;
 }
 .t-1,
 .t-3,
 .t-4 {
-  width: 140px;
-  height: 50px;
+  width: 160px;
+  height: 60px;
   border: 1px solid rgba(14, 14, 14, 0.15);
   border-radius: 11px;
   background: rgb(255, 255, 255);
-  padding-top: 15px;
+  padding-top: 8px;
 }
+.taka button:hover {
+  background-color: #5da045;
+  }
 .t-2 {
-  padding-top: 15px;
-  width: 140px;
-  height: 50px;
+  padding-top: 8px;
+  width: 160px;
+  height: 60px;
   border: 1px solid rgba(14, 14, 14, 0.15);
   border-radius: 11px;
   background: rgb(198, 228, 214);
