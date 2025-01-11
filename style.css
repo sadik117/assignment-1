@@ -25,6 +25,7 @@
   margin-right: 80px;
   width: 50px;
   height: 18px;
+  margin-top: 10px;
 }
 
 .banner {
@@ -410,13 +411,11 @@
 }
 
 /* Footer */
-.content{
+.footer-content{
   width: 1150px;
   height: 120px;
   background: rgb(255, 255, 255);
   padding-top: 30px;
   text-align: center;
 }
-.footer-ttls p{
 
-}
